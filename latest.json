@@ -1,7 +1,7 @@
 {
   "version": "v1.3.3",
-  "notes": "Allow pasting for previews, Change updater to ask user before installing",
-  "pub_date": "2025-04-09T17:33:00Z",
+  "notes": "Allow pasting for previews",
+  "pub_date": "2025-04-09T18:50:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDVJQ3Q5L2NKV1MySHFKdXNLMjVQZ09mRHJCWlUrcGdiZUdENTBTTWQ2UGc5NG9tdWpLc1h6cmFLbEkxTklqcU9ib2xJSy84UzVUTWRPQ0VMS0tMd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MjE3MjQwCWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjMuM194NjRfZW4tVVMubXNpLnppcAp3UkRmck5tdlBBb3E0QjgzS1RHUDNWNE5SY0tqRVBmSGVydmRZZkFDekk4dnJtRWRpYkhtUS9MZFE4bElHcWE3YjNBVTNkYUs4WGVvanVqc3I2SnNDUT09Cg==",
