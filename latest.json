@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.0",
-  "notes": "Added 7z/RAR support, Added lazy loading for optimization purposes",
-  "pub_date": "2025-04-09T13:45:00Z",
+  "version": "v1.3.2",
+  "notes": "Bigger mod list when viewing entities, Added links to dashboard, Redesigned useful links section in dashboard",
+  "pub_date": "2025-04-09T17:33:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDFLaHR2SGlsSW9qSEFuL1FRNVp1U3BGOUVVSkthWkhGQk1XYXdObE5BNHNEcDJvbEU5N0VSUGtKWCtPY0Y4aVRZSjh1dzdseVQ4Z0dSR1pBbkxqd0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MTk3OTAxCWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjMuMF94NjRfZW4tVVMubXNpLnppcApKSHg0Y0pJNXRTeExYSVBUVXh4Y1htNytlM0lxSTJXdTBEbW5BRkpRV3RxQjVXVWlKRld0NUFNczZqTXphcTIwNFlGUFVIUVRRYytBRnB6UmJsWHZEUT09Cg==",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.3.0/Genshin.Mod.Manager_1.3.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDBxSGJjNnBsUXVocEFkemJ3aXUwYWRaZkNxNHV1bURTNXEvaG9GNno4d3dvTFlleXRaTU9oc3B5U2pDTU9hY0VXZWtreG5obDFhclhWR1ptVGk3T1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MjEyNzIxCWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjMuMl94NjRfZW4tVVMubXNpLnppcApCNXhTOWg5WUNoUjU1VFdFdWJ4MFBMU24zdjlkK1kvWHpqVi9oRUtHeldRZ2E2N0FKS1A0Q29GZUEzRkpJUnllMzN3UHAwOS9HaklWMXE0MWhMTkdEQT09Cg==",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.3.2/Genshin.Mod.Manager_1.3.2_x64_en-US.msi.zip"
     }
   }
 }
