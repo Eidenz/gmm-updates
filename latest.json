@@ -1,6 +1,6 @@
 {
   "version": "v1.4.0",
-  "notes": "Added bulk toggle in list view, Added toast notifications",
+  "notes": "[Added bulk toggling (list view) ; Added toast notifications] The mod manager will automatically restart during the update process.",
   "pub_date": "2025-04-09T22:55:00Z",
   "platforms": {
     "windows-x86_64": {
