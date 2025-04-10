@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.0",
-  "notes": "[Added bulk toggling (list view) ; Added toast notifications] The mod manager will automatically restart during the update process.",
-  "pub_date": "2025-04-09T22:55:00Z",
+  "version": "v1.4.1",
+  "notes": "[drastically optimized images (reduced app size to 10MB)] The mod manager will automatically restart during the update process.",
+  "pub_date": "2025-04-10T23:02:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHd1V2I5V0R5Rk9pTEJ1bVhOV3dJNGFPVGJ1TlVYbStGazNaMmQ3ZVZLMjNHdnE5ZHoyUDNIaTNwOC9oRC94RENnWEJhSjU3L0dSSFpmcnN6SDVQSmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MjMyMDI5CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjQuMF94NjRfZW4tVVMubXNpLnppcApQck1GcGZpMThRZitGbXc2UVNDemgwakxycjZrRURWL2g0R2k4c3JRU1k5dHNrRXBJSFRCSnBNYkVhTGluWHJBMUs1azhQOVVFMTY0TTFFWGJZelZBQT09Cg==",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.4.0/Genshin.Mod.Manager_1.4.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHl2R1ZIWTZHT3RZQTRiVjMxaXV4N0dQUkI1Vlk5WUxGUWR6SzI0ZUxQNGdMSngwcXB3MW8xTkEwdWlDWXBHLzBjUXZDMFI5NFlMWnhmWldUL0U2RWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MzE4OTA5CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjQuMV94NjRfZW4tVVMubXNpLnppcApyYVF5eDAvSk5RaGxCTDZ4Y2ZtUFFnbTBsN1lsYVZDN3NxWjNudDhjTjVILzR4YUlkaTN3T0pvS0dMWHJpVC82c3JZdzlRbGwrOWFLUmliM293RjRCUT09Cg==",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.4.1/Genshin.Mod.Manager_1.4.1_x64_en-US.msi.zip"
     }
   }
 }
