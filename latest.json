@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.0",
-  "notes": "[Added presets to import modal and mod cards; Fixed image when toggling mods] The mod manager will automatically restart during the update process.",
-  "pub_date": "2025-04-15T02:23:00Z",
+  "version": "v1.6.0",
+  "notes": "[Added context menu to mods; Faster previews loading] The mod manager will automatically restart during the update process.",
+  "pub_date": "2025-04-15T10:32:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDF1bk9YT3R4RFcxOWRUYnRXSHJLNkhmUFhlNE5pK3dOM2pmWGFZSlZURmZSaWVlU3NJSk5qdi8vRmd1L2VNTFhZSTRwZXRHcnNvck5zR3NlVWRyc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Njc2NzE0CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjUuMF94NjRfZW4tVVMubXNpLnppcApPVVFmQnY4NFh3bTBreDJTVTlyMHZRRjhSYkxML2Y4eTRIRE9hSVhaRnBXYkNqMlRXM2FndXNYVEdCeHNmUE03cEdqUWlEOENvbnJ3TURjZE02YjFEdz09Cg==",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.5.0/Genshin.Mod.Manager_1.5.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDJueWZmZ3hHQnFWVlhYOXhsMmlXODRac3JKMkJPcWZkM081K1Y5MGptYU1ScGo3M21xR2ExWGJsbkt6VjZWZm55b3dGbkhwN3lMTlQ5ajh3R3pZakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NzA2MDM0CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjYuMF94NjRfZW4tVVMubXNpLnppcApFUmRNZWl1RXpITHNwQVNUSVU0N3N2c0krajJ5WitjamNZTkpXZ25qNUVVSU52RFI1Vi91MUY2eUpWYy9zLzlzQ3YrNHJHU1lscHRVK2NKYlZmalhCUT09Cg==",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.6.0/Genshin.Mod.Manager_1.6.0_x64_en-US.msi.zip"
     }
   }
 }
