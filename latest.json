@@ -1,11 +1,11 @@
 {
-  "version": "v1.4.3",
-  "notes": "[Added filter on entites page; Added saurians NPC] The mod manager will automatically restart during the update process.",
-  "pub_date": "2025-04-14T21:23:00Z",
+  "version": "v1.5.0",
+  "notes": "[Added presets to import modal and mod cards; Fixed image when toggling mods] The mod manager will automatically restart during the update process.",
+  "pub_date": "2025-04-15T02:23:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDVWd2gwWXY3WXU1RVlLYXZRcmpSczhXUTIyREhiSWMybUJhYjI3dWVyOGdmZ0Fta0FUTHlDR1RKVVFoallIS01HY0Vuck9OR0dtd1crNzZjbmVOYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjU4NjI2CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjQuM194NjRfZW4tVVMubXNpLnppcAowWG00NDBEYURyaDFXMUhGZlpOSlErdUh2TFhSTUs2cWtVS3Btem1rRHg3RG9vUFE1b0NYRTY4Snk3eE9LbXhabUtqa0t3Wmw2SzA5a1c4V3V3M0ZEQT09Cg==",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.4.3/Genshin.Mod.Manager_1.4.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDF1bk9YT3R4RFcxOWRUYnRXSHJLNkhmUFhlNE5pK3dOM2pmWGFZSlZURmZSaWVlU3NJSk5qdi8vRmd1L2VNTFhZSTRwZXRHcnNvck5zR3NlVWRyc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Njc2NzE0CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjUuMF94NjRfZW4tVVMubXNpLnppcApPVVFmQnY4NFh3bTBreDJTVTlyMHZRRjhSYkxML2Y4eTRIRE9hSVhaRnBXYkNqMlRXM2FndXNYVEdCeHNmUE03cEdqUWlEOENvbnJ3TURjZE02YjFEdz09Cg==",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.5.0/Genshin.Mod.Manager_1.5.0_x64_en-US.msi.zip"
     }
   }
 }
