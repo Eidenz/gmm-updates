@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.0",
-  "notes": "[Added context menu to mods; Faster previews loading] The mod manager will automatically restart during the update process.",
-  "pub_date": "2025-04-15T10:32:00Z",
+  "version": "v2.0.0",
+  "notes": "[Initial support for ZZZ; Renamed app to GMM] The mod manager will automatically restart during the update process.",
+  "pub_date": "2025-04-16T09:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDJueWZmZ3hHQnFWVlhYOXhsMmlXODRac3JKMkJPcWZkM081K1Y5MGptYU1ScGo3M21xR2ExWGJsbkt6VjZWZm55b3dGbkhwN3lMTlQ5ajh3R3pZakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NzA2MDM0CWZpbGU6R2Vuc2hpbiBNb2QgTWFuYWdlcl8xLjYuMF94NjRfZW4tVVMubXNpLnppcApFUmRNZWl1RXpITHNwQVNUSVU0N3N2c0krajJ5WitjamNZTkpXZ25qNUVVSU52RFI1Vi91MUY2eUpWYy9zLzlzQ3YrNHJHU1lscHRVK2NKYlZmalhCUT09Cg==",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v1.6.0/Genshin.Mod.Manager_1.6.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHlZZmIzaFRjTUJVbXptdmtRTk93dWNlenR5UEM1Y0xkMGlPY3JybGRubUhlT1MyUFBuVjd2RTFQeE5vZVpQOTBwZFJsNzU4YVJBbGIzYU5hVXk2UEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Nzg4OTE1CWZpbGU6R01NXzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwCmpZWjErKytRTzdnaUdyOVozRVNOdnpPc0pUcURYL1hGMmY4WmlwdDMxS1JtUUZjL0VsYnVsQkRpRUF3b1NoYks4U0I1cmVlREVEZUc0TmdSWnJkTEFRPT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.0.0/GMM_2.0.0_x64_en-US.msi.zip"
     }
   }
 }
