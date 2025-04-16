@@ -1,6 +1,6 @@
 {
   "version": "v2.0.0",
-  "notes": "[Initial support for ZZZ; Renamed app to GMM] The mod manager will automatically restart during the update process.",
+  "notes": "[Initial support for ZZZ; Renamed app to GMM] NAME CHANGE: PLEASE UNINSTALL `Genshin Mod Manager` AFTER UPDATE, AS THE APP WAS RENAMED TO GMM AND YOU WILL END UP WITH TWO INSTALLS.",
   "pub_date": "2025-04-16T09:35:00Z",
   "platforms": {
     "windows-x86_64": {
