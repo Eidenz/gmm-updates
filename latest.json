@@ -1,11 +1,11 @@
 {
-  "version": "v2.0.0",
+  "version": "v2.0.1",
   "notes": "[Initial support for ZZZ; Renamed app to GMM] NAME CHANGE: PLEASE UNINSTALL `Genshin Mod Manager` AFTER UPDATE, AS THE APP WAS RENAMED TO GMM AND YOU WILL END UP WITH TWO INSTALLS.",
-  "pub_date": "2025-04-16T09:35:00Z",
+  "pub_date": "2025-04-16T13:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHlZZmIzaFRjTUJVbXptdmtRTk93dWNlenR5UEM1Y0xkMGlPY3JybGRubUhlT1MyUFBuVjd2RTFQeE5vZVpQOTBwZFJsNzU4YVJBbGIzYU5hVXk2UEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Nzg4OTE1CWZpbGU6R01NXzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwCmpZWjErKytRTzdnaUdyOVozRVNOdnpPc0pUcURYL1hGMmY4WmlwdDMxS1JtUUZjL0VsYnVsQkRpRUF3b1NoYks4U0I1cmVlREVEZUc0TmdSWnJkTEFRPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.0.0/GMM_2.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDd0RTZFL1MwUDZiWXAzeW5VZTZTQVJiMk52TERhVEd3VXJ2cFk2Y2YzSEl0MVZ3MHhTOHJTd2lCZ2UxT1o0a0hSRkpLeFV0Uit0VVdWTC96blRDdWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODAxNzA0CWZpbGU6R01NXzIuMC4xX3g2NF9lbi1VUy5tc2kuemlwCjU0anZlMmtJeFQ3ZTBrT2Ztc0NRd0p4THNOZitjUFdVMlBXYU0rZmtjVGgwMlVVVVhrR3Z0eXl2QjFNZ3dmd21tQlgwTXhZeHdLQ1BYZGlIRGU1ZkRBPT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.0.1/GMM_2.0.1_x64_en-US.msi.zip"
     }
   }
 }
