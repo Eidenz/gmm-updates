@@ -1,11 +1,11 @@
 {
-  "version": "v2.1.0",
-  "notes": "[Better mod detection on import] The application will automatically restart and apply the update.",
-  "pub_date": "2025-04-17T10:37:00Z",
+  "version": "v2.2.0",
+  "notes": "[Improved scanner and import detection] The application will automatically restart and apply the update.",
+  "pub_date": "2025-04-17T11:52:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDc5N1ZPUk1XWDA2bjVzbjJ2aW43M3ZMNTN2M2k3YUg5VklCVUhjeXdoZVFqUjZBNUdtdDFza0lCK3MxMHk3c3J0dSt6YW1nWUdVLy85bkRGbVdpVndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODc4OTM3CWZpbGU6R01NXzIuMS4wX3g2NF9lbi1VUy5tc2kuemlwClFJSzJReGlsRmIvSGFWcTBrTm1weFcwQUMyOTUrdWM4VnZwU1pudUhjcVVOMmRkN0toUm9nTEJwbDhDZVFudXdUZTl2VHFXRnFXckRRRW4yRWJTekJBPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.1.0/GMM_2.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDdjVDRHOWNRU0JJeFhhV21JVGVLTFJhRGpGSndWUExsaUxEZGl4SEJJZVNpK3lOZGZuYUQ1NnJST1BEdHBRSG5aakxMT2N6V3gyNk1VK0hOdnh3bGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODgzNTg2CWZpbGU6R01NXzIuMi4wX3g2NF9lbi1VUy5tc2kuemlwCmU2TmltdGtVL1FMMXdwdWJ0QnQ0eEIvMzBaeTJ1SEF1bWN4OVhpdGFSZXZETWJ0ZVFyU1hvbDg2dkY4QVNpaVBwc1k0OHpzZElFUmdCV3UrZXRjM0JnPT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.2.0/GMM_2.2.0_x64_en-US.msi.zip"
     }
   }
 }
