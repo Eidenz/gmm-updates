@@ -1,11 +1,11 @@
 {
-  "version": "v2.2.0",
-  "notes": "[Improved scanner and import detection] The application will automatically restart and apply the update.",
-  "pub_date": "2025-04-17T11:52:00Z",
+  "version": "v2.3.0",
+  "notes": "[Separate Aether and Lumine ; Added entities for ZZZ] The application will automatically restart and apply the update.",
+  "pub_date": "2025-04-19T04:06:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDdjVDRHOWNRU0JJeFhhV21JVGVLTFJhRGpGSndWUExsaUxEZGl4SEJJZVNpK3lOZGZuYUQ1NnJST1BEdHBRSG5aakxMT2N6V3gyNk1VK0hOdnh3bGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODgzNTg2CWZpbGU6R01NXzIuMi4wX3g2NF9lbi1VUy5tc2kuemlwCmU2TmltdGtVL1FMMXdwdWJ0QnQ0eEIvMzBaeTJ1SEF1bWN4OVhpdGFSZXZETWJ0ZVFyU1hvbDg2dkY4QVNpaVBwc1k0OHpzZElFUmdCV3UrZXRjM0JnPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.2.0/GMM_2.2.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDVab1h1ZWMxOGt2emg1ckh0MG0wNEtpYkIzUmF6QjBkWWNBTm14QWU3UVZtS1Y5MGRhM3loQ3ZNdTlkajFFeThYWnROL29acXZ3Z3ptV2RwcVdEZ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDI4MzczCWZpbGU6R01NXzIuMy4wX3g2NF9lbi1VUy5tc2kuemlwCmZtMEdxSXp5aWQ1SXFwQ283N0JzbVl4TlpkanUydDFlcExjUE1iRU9LR2VIWkdlUS9FNW1JRFRlMjZROG5KOU9KQXFVVXd3TXRKaGxNUjZKRU1IWUF3PT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.3.0/GMM_2.3.0_x64_en-US.msi.zip"
     }
   }
 }
