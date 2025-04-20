@@ -1,11 +1,11 @@
 {
-  "version": "v2.4.0",
-  "notes": "[Improved previews and entity page ; Added folder icon on mod cards ; Changed ZZZ pictures] The application will automatically restart and apply the update.",
-  "pub_date": "2025-04-19T19:05:00Z",
+  "version": "v2.5.0",
+  "notes": "[Better use of available space in entity page] The application will automatically restart and apply the update.",
+  "pub_date": "2025-04-20T03:41:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDkzbTE2VDlhc3FnSmF6TDRMY0oraldvaXRBT3BvSERCaklyc1hXY0ZnQXNlTEVXcStPS09hUEpLbTBiTEFQSHlNTjlLQm1CZzF0UUFXQ3A2YUJtN0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDgyMjQ3CWZpbGU6R01NXzIuNC4wX3g2NF9lbi1VUy5tc2kuemlwCnRQUEJLaDV4MHd0cEEvOVlRYXZUeXRVV2NkcEd5TUE0d1NybVJiOTRGV0Rrcm1zSXZjNjl5cU9GVFVwYTc1RkxsbHBBK0JESFhEYWN5dEdJSUFyWEFBPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.4.0/GMM_2.4.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDNlZjJzY015SWY2MEFjRDRidzBPc3lHZHZib3NUQWxhU0FUeDV1Nm82ZlRucWQ3T2hDRmcxNTRMbGdpdEJVUWNJY0xiakNydzE1WGxuT09Dc0g0OHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTEzMzE1CWZpbGU6R01NXzIuNS4wX3g2NF9lbi1VUy5tc2kuemlwCkxJNThLM0tOeE56ZkJBTXM1YW9ZMUh0OEUwWHE0WXViUjhqd0wvMG1QcG91Z2hFWHJoL3BwT3psTFowR2FVUVlmTXdFdHhyTVdLd01GZjVBUUtrckN3PT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.5.0/GMM_2.5.0_x64_en-US.msi.zip"
     }
   }
 }
