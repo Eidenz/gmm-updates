@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.3",
-  "notes": "[Added new ZZZ characters] The application will automatically restart and apply the update.",
-  "pub_date": "2025-04-23T06:22:00Z",
+  "version": "v2.5.4",
+  "notes": "[Added new Genshin characters] The application will automatically restart and apply the update.",
+  "pub_date": "2025-04-25T20:28:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHpHOFhoU2xnZ0JORlN2T0gweVQ0WnhCZTlUeUhSNlM0anpxNlFYVXVoazNCMUNYNGNLcVdic0pBOWZDNVVnekpXWjMxanZSQjZ2ZCtvNDRGNE1QM2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MzgyMTMxCWZpbGU6R01NXzIuNS4zX3g2NF9lbi1VUy5tc2kuemlwClQ0QXdVandtdzZRRUt4bjdkQlYzc3MzLytMbXM5VXpueXRBRG5aR0pNamZMM2tNN0pwWkVVSlFBcGpUMUFvOUd2MkI1SGZEUDNxRWxpSnZYYlRxaEFBPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.5.3/GMM_2.5.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHpyVk9MOTBadFRyd1NwODJidDJ6ZDFPdld1Z2xiWTc2OGJPRFlBZVRIbXpxajFDSVBFaWt2UzJsd1RhbUIrTGZLWDc2dXA5OU9zYjRWSGJtQ0JpMGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NjA1NzI4CWZpbGU6R01NXzIuNS40X3g2NF9lbi1VUy5tc2kuemlwCjJFd0R4RVJGOXRHVGJuZko4MDBMMjhndXRlRlk0RGFndTdtdjU2bTArSGVVbEtTSkV0R3laUkRYYlJMeWZNb3diYVBibVZPUTV6Nzl2REpFNXJFQkFRPT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v2.5.4/GMM_2.5.4_x64_en-US.msi.zip"
     }
   }
 }
