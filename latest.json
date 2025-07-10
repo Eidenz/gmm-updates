@@ -1,11 +1,11 @@
 {
-  "version": "v3.0.0",
-  "notes": "[Added WuWa support ; rarity colors ; badges on entity cards] The application will automatically restart and apply the update.",
+  "version": "v3.0.1",
+  "notes": "[Added upcoming ZZZ 2.1 characters] The application will automatically restart and apply the update.",
   "pub_date": "2025-07-05T15:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDRpYU1pRUFjR0dLemlZbFJneVcxNWlKSWxDVDd5RS90V0lxc1R2Yy9HMzJjWjBlc2hRZ2p6YTRaTmdSK0FzYVhBbkNBR3gwVllvS0NINnhJTm4wMFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNzIzMDcxCWZpbGU6R01NXzMuMC4wX3g2NF9lbi1VUy5tc2kuemlwCi9zMGhYUmE1ZVJKWWFrRTBDbVk1dUZMU1J0RHZBUzZURENPS0pQUjZnYk9pMXhEWjA3bDF1K0crdDlkWFExcW5Ca1pHZnZlMTJBY0ZxZWUxRFNTeUFnPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v3.0.0/GMM_3.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTCtlMVM1S2RZZlduOE15UjJ4Z1dBTXBCVmtyeExVNVhvS1FScnRwMHdDYjdVeWpLcTMvVWFJelM4c0xJT0VBalBFcVdRYzhZVk5sSWgrNXIxYk9BVWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMTU3NTAxCWZpbGU6R01NXzMuMC4xX3g2NF9lbi1VUy5tc2kuemlwCmdrY0toV2E0U1BnYVd3bE5mam1waWV1dGRVYnpKNkNMM3B4c3gzYk9hMHhySXJtek45NVBEK2NaYlpqWlpWVFYyWVRkVGdKOStJT3BPbmZ4SDIvdUJRPT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v3.0.1/GMM_3.0.1_x64_en-US.msi.zip"
     }
   }
 }
