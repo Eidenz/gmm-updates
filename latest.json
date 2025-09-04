@@ -1,11 +1,11 @@
 {
-  "version": "v3.0.2",
-  "notes": "[Added Ineffa character] The application will automatically restart and apply the update.",
+  "version": "v3.0.3",
+  "notes": "[Added ZZZ characters] The application will automatically restart and apply the update.",
   "pub_date": "2025-07-30T12:26:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTDhJaXUzZE1DRnQ5WnFmMzRZcUdIRFhXYmFjdFBoTUltZmZpMndZZDUrc0VOME9GOGp0TXN4K2I5RE42eTN4Mk5WTzJkM2oxRkJjTVhUQ2pGdU16alFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzODc4MzI1CWZpbGU6R01NXzMuMC4yX3g2NF9lbi1VUy5tc2kuemlwCjZ5ZXpFUDRaTUFxMldkZlRINllPVnFRdlVnUlFzMVlZejIrcXFSQXgxd2EyYUo4M0FOR2xJNDlnNytXM21nYy93Ym52U28rT0dQa1BYMDZKc0JtNkJRPT0K",
-      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v3.0.2/GMM_3.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSktncnhSSmduTHlIR3NEQ1VoTWNFcVJKNlMwVmVNSHo0VWNqVnZDbEJsNkVuL256ZVEyeHJRR0hETWl2ZzhEam15U0xDczR4ZThUWWR1UHFacy9vMnplMUVRWE5OaUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2OTg2MTQ0CWZpbGU6R01NXzMuMC4zX3g2NF9lbi1VUy5tc2kuemlwClBkKyt2czhWdGY5MUs2U216dSs4eXJPOEFpR3NaOHFkS0s2Mk5FNkI5WGNneU9Bai9WcVpsck9uVUtWdUhKZnJ2a2F3RGQvNXlWM0JFeDNqN1psQUR3PT0K",
+      "url": "https://github.com/Eidenz/gmm-updates/releases/download/v3.0.3/GMM_3.0.3_x64_en-US.msi.zip"
     }
   }
 }
